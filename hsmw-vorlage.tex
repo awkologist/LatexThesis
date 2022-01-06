@@ -73,7 +73,7 @@ uniquename=init, %
 \Unterthema{Für alle \LaTeX{}-Freunde}
 
 % Ihr Studiengang:
-\Studiengang{Bachelor Biotechnologie\\Master Molekularbiologie/Bioinformatik}
+\Studiengang{Bachelor Biotechnologie\\Master Genomische Biotechnologie}
 
 % Ihre Seminargruppe
 \Seminargruppe{}
@@ -134,6 +134,8 @@ Ich möchte an dieser Stelle Professor Klaus Dohmen für die gute Vorlage danken
 \chapter{Über diese \LaTeX{}-Vorlage}
 Nachfolgend finden Sie eingige wichtige Informationen zu dieser Vorlage. Eine gute Online-Einführung finden sie unter \url{de.wikibooks.org/wiki/LaTeX-Kompendium}. Ein superkurze Einführung ist auch in meinem Buch enthalten \citep{Wuenschiers2016}.
 Scheuen Sie sich nicht, mich (Röbbe Wünschiers) auf Fehler und Verbesserungsvorschläge hinzuweisen.
+
+In einer älteren Version konnte es zu dem LaTeX Error »File 'scrpage2.sty' not found.« kommen. Infolgedessen wurde keine PDF-Datei erzeugt. Das \textit{scrpage2}-Paket ist für die Beschriftung der Seitenköpfe zuständig und veraltet. Ich habe es durch das Paket \textit{scrlayer-scrpage} in der Datei \textit{hsmw-class.cls} ersetzt.
 
 \section{Notwendige Dateien}
 Diese Vorlage besteht aus mehreren Dateien, die alle im selben Verzeichnis liegen müssen. Diese sind ...
