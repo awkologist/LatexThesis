@@ -497,7 +497,7 @@ pdfcreator = {LaTeX mit HSMW-Thesis}
 \RequirePackage{graphicx}
 \RequirePackage{makeidx}
 \RequirePackage{eso-pic}
-\RequirePackage[headsepline]{scrpage2}
+\RequirePackage[headsepline]{scrlayer-scrpage}
 \RequirePackage{setspace}
 
 % Seitenstil
