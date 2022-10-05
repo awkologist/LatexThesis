@@ -327,7 +327,7 @@ version=3.04]{scrbook}[2009/07/07]
 \providecommand{\phantomsection}{}
 }{%
 \AtBeginDocument{\pagenumbering{alph}}
-\ifpdfoutput{%
+\Ifpdfoutput{%
 \RequirePackage[pdftex,colorlinks,linkcolor=linkfarbe,urlcolor=linkfarbe,anchorcolor=linkfarbe,citecolor=linkfarbe,breaklinks,bookmarksnumbered]{hyperref}
 }{%
 \RequirePackage[dvips,colorlinks,linkcolor=linkfarbe,urlcolor=linkfarbe,anchorcolor=linkfarbe,citecolor=linkfarbe,bookmarksnumbered]{hyperref}
@@ -679,7 +679,7 @@ Mittweida, \@Monat{} \@Jahr
 \begin{titlepage}
 \AddToShipoutPicture*{%
 \insertFirmenlogo%
-\ifpdfoutput{
+\Ifpdfoutput{
 \ifjubilogo
 \put(369,731){\includegraphics[width=56mm, viewport = 0 0 215 122,
   clip]{hsmw-logo-150.pdf}}
