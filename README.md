@@ -12,12 +12,8 @@ Wenn Sie die das BibTex-Format *@book* verwenden, dann wird der Tag *pages* igno
 - Wünschiers, R (2016). Wiley-Schnellkurs Bioinformatik – Datenmassen Richtig Fassen.
 In: Wiley-VCH, ISBN: 978-3-527-53040-3.
 
-Bei dem Format *@inbook* werden die Seiten dagegen angezeigt:
+Bei dem Format *@inbook* werden die Seiten dagegen angezeigt. Sie sollten mit dem Tag *chapter* auch den Namen des Kapitels angeben:
 
-- Wünschiers, R (2016). Wiley-Schnellkurs Bioinformatik – Datenmassen Richtig Fassen.
-In: Wiley-VCH, 72–89. ISBN: 978-3-527-53040-3.
+- Wünschiers, R (2016) Wiley-Schnellkurs Bioinformatik – Datenmassen richtig fassen.
+Kap. Es allen zeigen: S. 221–241. Wiley-VCH. ISBN: 978-3-527-53040-3.
 
-Wenn Sie zu den Seitenzahlen noch Text voranstellen (`pages = {S. 72-89}`), wird dieser auch im Literaturverzeichnis angezeigt:
-
-- Wünschiers, R (2016). Wiley-Schnellkurs Bioinformatik – Datenmassen Richtig Fassen.
-In: Wiley-VCH, S. 72–89. ISBN: 978-3-527-53040-3.
