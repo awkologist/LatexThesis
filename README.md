@@ -15,5 +15,5 @@ In: Wiley-VCH, ISBN: 978-3-527-53040-3.
 Bei dem Format *@inbook* werden die Seiten dagegen angezeigt. Sie sollten mit dem Tag *chapter* auch den Namen des Kapitels angeben:
 
 - Wünschiers, R (2016) Wiley-Schnellkurs Bioinformatik – Datenmassen richtig fassen.
-Kap. Es allen zeigen: S. 221–241. Wiley-VCH. ISBN: 978-3-527-53040-3.
+Kap. *Es allen zeigen*: S. 221–241. Wiley-VCH. ISBN: 978-3-527-53040-3.
 
