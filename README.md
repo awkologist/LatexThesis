@@ -1,3 +1,13 @@
+**ACHTUNG** | **ACHTUNG** | **ACHTUNG**
+
+Diese Version ist alt. Mit Stand Mai 2025 verwenden Sie bitte folgende LaTeX-Vorlage: 
+
+=> https://github.com/awkologist/HSMW-Template-BioChem-Group
+
+**ACHTUNG** | **ACHTUNG** | **ACHTUNG**
+
+---
+
 # LatexThesis
 Vorlage für Protokolle, Belege und Abschlussarbeiten
 
